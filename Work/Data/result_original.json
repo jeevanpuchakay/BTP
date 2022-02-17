@@ -1,0 +1,3506 @@
+[
+    {
+        "frame_id": 1,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (115).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.631504,
+                    "center_y": 0.649955,
+                    "width": 0.011811,
+                    "height": 0.020674
+                },
+                "confidence": 0.752379
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.482245,
+                    "center_y": 0.662593,
+                    "width": 0.009346,
+                    "height": 0.014868
+                },
+                "confidence": 0.642059
+            }
+        ]
+    },
+    {
+        "frame_id": 2,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (116).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.699288,
+                    "center_y": 0.618149,
+                    "width": 0.019125,
+                    "height": 0.034342
+                },
+                "confidence": 0.625031
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.461767,
+                    "center_y": 0.646311,
+                    "width": 0.013212,
+                    "height": 0.020930
+                },
+                "confidence": 0.513999
+            }
+        ]
+    },
+    {
+        "frame_id": 3,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (123).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.677889,
+                    "center_y": 0.647640,
+                    "width": 0.015797,
+                    "height": 0.027660
+                },
+                "confidence": 0.475394
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.214305,
+                    "center_y": 0.611609,
+                    "width": 0.012638,
+                    "height": 0.021899
+                },
+                "confidence": 0.560687
+            }
+        ]
+    },
+    {
+        "frame_id": 4,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (129).png",
+        "objects": []
+    },
+    {
+        "frame_id": 5,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (132).png",
+        "objects": []
+    },
+    {
+        "frame_id": 6,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (138).png",
+        "objects": []
+    },
+    {
+        "frame_id": 7,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (141).png",
+        "objects": []
+    },
+    {
+        "frame_id": 8,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (143).png",
+        "objects": []
+    },
+    {
+        "frame_id": 9,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (145).png",
+        "objects": []
+    },
+    {
+        "frame_id": 10,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (146).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.251960,
+                    "center_y": 0.477847,
+                    "width": 0.021264,
+                    "height": 0.038892
+                },
+                "confidence": 0.909087
+            }
+        ]
+    },
+    {
+        "frame_id": 11,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (149).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.233295,
+                    "center_y": 0.507286,
+                    "width": 0.015731,
+                    "height": 0.032085
+                },
+                "confidence": 0.959781
+            }
+        ]
+    },
+    {
+        "frame_id": 12,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (150).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.186457,
+                    "center_y": 0.491757,
+                    "width": 0.017556,
+                    "height": 0.037530
+                },
+                "confidence": 0.666397
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.326815,
+                    "center_y": 0.523315,
+                    "width": 0.010077,
+                    "height": 0.017694
+                },
+                "confidence": 0.620885
+            }
+        ]
+    },
+    {
+        "frame_id": 13,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (153).png",
+        "objects": [
+            {
+                "class_id": 3,
+                "name": "complementary",
+                "relative_coordinates": {
+                    "center_x": 0.427549,
+                    "center_y": 0.532381,
+                    "width": 0.005353,
+                    "height": 0.011556
+                },
+                "confidence": 0.730343
+            }
+        ]
+    },
+    {
+        "frame_id": 14,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (154).png",
+        "objects": [
+            {
+                "class_id": 3,
+                "name": "complementary",
+                "relative_coordinates": {
+                    "center_x": 0.428176,
+                    "center_y": 0.540978,
+                    "width": 0.005436,
+                    "height": 0.013148
+                },
+                "confidence": 0.810124
+            }
+        ]
+    },
+    {
+        "frame_id": 15,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (159).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.272588,
+                    "center_y": 0.623066,
+                    "width": 0.040613,
+                    "height": 0.070342
+                },
+                "confidence": 0.922807
+            }
+        ]
+    },
+    {
+        "frame_id": 16,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (160).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.376620,
+                    "center_y": 0.519253,
+                    "width": 0.016056,
+                    "height": 0.028698
+                },
+                "confidence": 0.724820
+            }
+        ]
+    },
+    {
+        "frame_id": 17,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (166).png",
+        "objects": []
+    },
+    {
+        "frame_id": 18,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (168).png",
+        "objects": []
+    },
+    {
+        "frame_id": 19,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (169).png",
+        "objects": []
+    },
+    {
+        "frame_id": 20,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (170).png",
+        "objects": []
+    },
+    {
+        "frame_id": 21,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (172).png",
+        "objects": []
+    },
+    {
+        "frame_id": 22,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (177).png",
+        "objects": []
+    },
+    {
+        "frame_id": 23,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (178).png",
+        "objects": []
+    },
+    {
+        "frame_id": 24,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (179).png",
+        "objects": []
+    },
+    {
+        "frame_id": 25,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (180).png",
+        "objects": []
+    },
+    {
+        "frame_id": 26,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (186).png",
+        "objects": []
+    },
+    {
+        "frame_id": 27,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (187).png",
+        "objects": []
+    },
+    {
+        "frame_id": 28,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (188).png",
+        "objects": []
+    },
+    {
+        "frame_id": 29,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (192).png",
+        "objects": []
+    },
+    {
+        "frame_id": 30,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (193).png",
+        "objects": []
+    },
+    {
+        "frame_id": 31,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (194).png",
+        "objects": []
+    },
+    {
+        "frame_id": 32,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (196).png",
+        "objects": []
+    },
+    {
+        "frame_id": 33,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (199).png",
+        "objects": []
+    },
+    {
+        "frame_id": 34,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (201).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.236791,
+                    "center_y": 0.476344,
+                    "width": 0.021241,
+                    "height": 0.040498
+                },
+                "confidence": 0.975677
+            }
+        ]
+    },
+    {
+        "frame_id": 35,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (204).png",
+        "objects": []
+    },
+    {
+        "frame_id": 36,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (205).png",
+        "objects": []
+    },
+    {
+        "frame_id": 37,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (208).png",
+        "objects": []
+    },
+    {
+        "frame_id": 38,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (209).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.309235,
+                    "center_y": 0.630157,
+                    "width": 0.032563,
+                    "height": 0.050831
+                },
+                "confidence": 0.822280
+            }
+        ]
+    },
+    {
+        "frame_id": 39,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (210).png",
+        "objects": []
+    },
+    {
+        "frame_id": 40,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (211).png",
+        "objects": []
+    },
+    {
+        "frame_id": 41,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (212).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.237674,
+                    "center_y": 0.479908,
+                    "width": 0.026978,
+                    "height": 0.050164
+                },
+                "confidence": 0.883402
+            }
+        ]
+    },
+    {
+        "frame_id": 42,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (215).png",
+        "objects": []
+    },
+    {
+        "frame_id": 43,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (216).png",
+        "objects": []
+    },
+    {
+        "frame_id": 44,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (217).png",
+        "objects": []
+    },
+    {
+        "frame_id": 45,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (218).png",
+        "objects": []
+    },
+    {
+        "frame_id": 46,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (219).png",
+        "objects": []
+    },
+    {
+        "frame_id": 47,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (220).png",
+        "objects": []
+    },
+    {
+        "frame_id": 48,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (222).png",
+        "objects": []
+    },
+    {
+        "frame_id": 49,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (223).png",
+        "objects": []
+    },
+    {
+        "frame_id": 50,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (224).png",
+        "objects": []
+    },
+    {
+        "frame_id": 51,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (225).png",
+        "objects": []
+    },
+    {
+        "frame_id": 52,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (227).png",
+        "objects": []
+    },
+    {
+        "frame_id": 53,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (229).png",
+        "objects": []
+    },
+    {
+        "frame_id": 54,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (230).png",
+        "objects": []
+    },
+    {
+        "frame_id": 55,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (231).png",
+        "objects": []
+    },
+    {
+        "frame_id": 56,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (232).png",
+        "objects": []
+    },
+    {
+        "frame_id": 57,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (233).png",
+        "objects": []
+    },
+    {
+        "frame_id": 58,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (234).png",
+        "objects": []
+    },
+    {
+        "frame_id": 59,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (236).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.362081,
+                    "center_y": 0.653787,
+                    "width": 0.009144,
+                    "height": 0.016176
+                },
+                "confidence": 0.917643
+            }
+        ]
+    },
+    {
+        "frame_id": 60,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (238).png",
+        "objects": []
+    },
+    {
+        "frame_id": 61,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (239).png",
+        "objects": []
+    },
+    {
+        "frame_id": 62,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (241).png",
+        "objects": []
+    },
+    {
+        "frame_id": 63,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (242).png",
+        "objects": []
+    },
+    {
+        "frame_id": 64,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (243).png",
+        "objects": []
+    },
+    {
+        "frame_id": 65,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (246).png",
+        "objects": []
+    },
+    {
+        "frame_id": 66,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (248).png",
+        "objects": []
+    },
+    {
+        "frame_id": 67,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (249).png",
+        "objects": []
+    },
+    {
+        "frame_id": 68,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (250).png",
+        "objects": []
+    },
+    {
+        "frame_id": 69,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (251).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.362038,
+                    "center_y": 0.508714,
+                    "width": 0.010146,
+                    "height": 0.018009
+                },
+                "confidence": 0.471563
+            }
+        ]
+    },
+    {
+        "frame_id": 70,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (252).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.308747,
+                    "center_y": 0.483147,
+                    "width": 0.019935,
+                    "height": 0.031357
+                },
+                "confidence": 0.553943
+            }
+        ]
+    },
+    {
+        "frame_id": 71,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (259).png",
+        "objects": []
+    },
+    {
+        "frame_id": 72,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (264).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.565563,
+                    "center_y": 0.507416,
+                    "width": 0.015732,
+                    "height": 0.028637
+                },
+                "confidence": 0.801433
+            }
+        ]
+    },
+    {
+        "frame_id": 73,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (266).png",
+        "objects": []
+    },
+    {
+        "frame_id": 74,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (270).png",
+        "objects": []
+    },
+    {
+        "frame_id": 75,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (272).png",
+        "objects": []
+    },
+    {
+        "frame_id": 76,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (273).png",
+        "objects": []
+    },
+    {
+        "frame_id": 77,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (284).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.242467,
+                    "center_y": 0.551854,
+                    "width": 0.036842,
+                    "height": 0.062639
+                },
+                "confidence": 0.989883
+            }
+        ]
+    },
+    {
+        "frame_id": 78,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (290).png",
+        "objects": []
+    },
+    {
+        "frame_id": 79,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (292).png",
+        "objects": []
+    },
+    {
+        "frame_id": 80,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (298).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.260496,
+                    "center_y": 0.421972,
+                    "width": 0.034782,
+                    "height": 0.059964
+                },
+                "confidence": 0.803574
+            }
+        ]
+    },
+    {
+        "frame_id": 81,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (303).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.020405,
+                    "center_y": 0.450054,
+                    "width": 0.017403,
+                    "height": 0.057827
+                },
+                "confidence": 0.456967
+            }
+        ]
+    },
+    {
+        "frame_id": 82,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (304).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.209616,
+                    "center_y": 0.503862,
+                    "width": 0.015954,
+                    "height": 0.033938
+                },
+                "confidence": 0.938065
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.340021,
+                    "center_y": 0.532701,
+                    "width": 0.009427,
+                    "height": 0.017414
+                },
+                "confidence": 0.684515
+            }
+        ]
+    },
+    {
+        "frame_id": 83,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (306).png",
+        "objects": []
+    },
+    {
+        "frame_id": 84,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (307).png",
+        "objects": []
+    },
+    {
+        "frame_id": 85,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (310).png",
+        "objects": []
+    },
+    {
+        "frame_id": 86,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (311).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.240666,
+                    "center_y": 0.452916,
+                    "width": 0.026939,
+                    "height": 0.049925
+                },
+                "confidence": 0.960600
+            }
+        ]
+    },
+    {
+        "frame_id": 87,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (312).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.619566,
+                    "center_y": 0.494944,
+                    "width": 0.022112,
+                    "height": 0.041041
+                },
+                "confidence": 0.617279
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.363127,
+                    "center_y": 0.509388,
+                    "width": 0.015540,
+                    "height": 0.026382
+                },
+                "confidence": 0.584304
+            }
+        ]
+    },
+    {
+        "frame_id": 88,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (313).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.683713,
+                    "center_y": 0.477440,
+                    "width": 0.028262,
+                    "height": 0.051300
+                },
+                "confidence": 0.931531
+            }
+        ]
+    },
+    {
+        "frame_id": 89,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (314).png",
+        "objects": []
+    },
+    {
+        "frame_id": 90,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (316).png",
+        "objects": []
+    },
+    {
+        "frame_id": 91,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (320).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.022795,
+                    "center_y": 0.970872,
+                    "width": 0.009347,
+                    "height": 0.023230
+                },
+                "confidence": 0.321896
+            }
+        ]
+    },
+    {
+        "frame_id": 92,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (321).png",
+        "objects": []
+    },
+    {
+        "frame_id": 93,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (322).png",
+        "objects": []
+    },
+    {
+        "frame_id": 94,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (323).png",
+        "objects": []
+    },
+    {
+        "frame_id": 95,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (324).png",
+        "objects": []
+    },
+    {
+        "frame_id": 96,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (328).png",
+        "objects": []
+    },
+    {
+        "frame_id": 97,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (329).png",
+        "objects": []
+    },
+    {
+        "frame_id": 98,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (333).png",
+        "objects": []
+    },
+    {
+        "frame_id": 99,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (335).png",
+        "objects": []
+    },
+    {
+        "frame_id": 100,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (340).png",
+        "objects": []
+    },
+    {
+        "frame_id": 101,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (342).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.393988,
+                    "center_y": 0.677306,
+                    "width": 0.013263,
+                    "height": 0.023749
+                },
+                "confidence": 0.980400
+            }
+        ]
+    },
+    {
+        "frame_id": 102,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (343).png",
+        "objects": []
+    },
+    {
+        "frame_id": 103,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (347).png",
+        "objects": []
+    },
+    {
+        "frame_id": 104,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (348).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.188164,
+                    "center_y": 0.529290,
+                    "width": 0.015652,
+                    "height": 0.035569
+                },
+                "confidence": 0.321811
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.379191,
+                    "center_y": 0.638583,
+                    "width": 0.010166,
+                    "height": 0.019079
+                },
+                "confidence": 0.316975
+            }
+        ]
+    },
+    {
+        "frame_id": 105,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (349).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.302518,
+                    "center_y": 0.579077,
+                    "width": 0.015231,
+                    "height": 0.027794
+                },
+                "confidence": 0.435173
+            }
+        ]
+    },
+    {
+        "frame_id": 106,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (350).png",
+        "objects": []
+    },
+    {
+        "frame_id": 107,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (352).png",
+        "objects": []
+    },
+    {
+        "frame_id": 108,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (353).png",
+        "objects": []
+    },
+    {
+        "frame_id": 109,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (356).png",
+        "objects": []
+    },
+    {
+        "frame_id": 110,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (357).png",
+        "objects": [
+            {
+                "class_id": 2,
+                "name": "information",
+                "relative_coordinates": {
+                    "center_x": 0.301011,
+                    "center_y": 0.620876,
+                    "width": 0.016012,
+                    "height": 0.040838
+                },
+                "confidence": 0.978011
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.600786,
+                    "center_y": 0.679326,
+                    "width": 0.017133,
+                    "height": 0.030767
+                },
+                "confidence": 0.992347
+            }
+        ]
+    },
+    {
+        "frame_id": 111,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (358).png",
+        "objects": [
+            {
+                "class_id": 2,
+                "name": "information",
+                "relative_coordinates": {
+                    "center_x": 0.182867,
+                    "center_y": 0.575957,
+                    "width": 0.020853,
+                    "height": 0.061097
+                },
+                "confidence": 0.648619
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.651271,
+                    "center_y": 0.660115,
+                    "width": 0.026314,
+                    "height": 0.047831
+                },
+                "confidence": 0.997170
+            }
+        ]
+    },
+    {
+        "frame_id": 112,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (360).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.292507,
+                    "center_y": 0.606896,
+                    "width": 0.009751,
+                    "height": 0.019932
+                },
+                "confidence": 0.283233
+            }
+        ]
+    },
+    {
+        "frame_id": 113,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (361).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.306056,
+                    "center_y": 0.584543,
+                    "width": 0.013442,
+                    "height": 0.025244
+                },
+                "confidence": 0.487788
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.202484,
+                    "center_y": 0.563245,
+                    "width": 0.011622,
+                    "height": 0.025151
+                },
+                "confidence": 0.312825
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.226961,
+                    "center_y": 0.554543,
+                    "width": 0.020275,
+                    "height": 0.043842
+                },
+                "confidence": 0.885901
+            }
+        ]
+    },
+    {
+        "frame_id": 114,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (362).png",
+        "objects": [
+            {
+                "class_id": 2,
+                "name": "information",
+                "relative_coordinates": {
+                    "center_x": 0.676794,
+                    "center_y": 0.801501,
+                    "width": 0.005333,
+                    "height": 0.011970
+                },
+                "confidence": 0.324155
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.119034,
+                    "center_y": 0.489324,
+                    "width": 0.026208,
+                    "height": 0.060121
+                },
+                "confidence": 0.607531
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.792718,
+                    "center_y": 0.580914,
+                    "width": 0.037448,
+                    "height": 0.064741
+                },
+                "confidence": 0.519076
+            }
+        ]
+    },
+    {
+        "frame_id": 115,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (370).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.287924,
+                    "center_y": 0.599255,
+                    "width": 0.015298,
+                    "height": 0.030492
+                },
+                "confidence": 0.954566
+            }
+        ]
+    },
+    {
+        "frame_id": 116,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (371).png",
+        "objects": []
+    },
+    {
+        "frame_id": 117,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (374).png",
+        "objects": [
+            {
+                "class_id": 2,
+                "name": "information",
+                "relative_coordinates": {
+                    "center_x": 0.367143,
+                    "center_y": 0.659472,
+                    "width": 0.009252,
+                    "height": 0.020834
+                },
+                "confidence": 0.384316
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.302337,
+                    "center_y": 0.652926,
+                    "width": 0.016980,
+                    "height": 0.028080
+                },
+                "confidence": 0.809000
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.313194,
+                    "center_y": 0.613502,
+                    "width": 0.012980,
+                    "height": 0.022263
+                },
+                "confidence": 0.708519
+            }
+        ]
+    },
+    {
+        "frame_id": 118,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (377).png",
+        "objects": [
+            {
+                "class_id": 2,
+                "name": "information",
+                "relative_coordinates": {
+                    "center_x": 0.450821,
+                    "center_y": 0.652789,
+                    "width": 0.011337,
+                    "height": 0.027222
+                },
+                "confidence": 0.497922
+            }
+        ]
+    },
+    {
+        "frame_id": 119,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (378).png",
+        "objects": [
+            {
+                "class_id": 2,
+                "name": "information",
+                "relative_coordinates": {
+                    "center_x": 0.372302,
+                    "center_y": 0.599312,
+                    "width": 0.020921,
+                    "height": 0.053312
+                },
+                "confidence": 0.509918
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.422378,
+                    "center_y": 0.628003,
+                    "width": 0.010812,
+                    "height": 0.018755
+                },
+                "confidence": 0.295983
+            }
+        ]
+    },
+    {
+        "frame_id": 120,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (379).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.361596,
+                    "center_y": 0.575190,
+                    "width": 0.015571,
+                    "height": 0.028329
+                },
+                "confidence": 0.486539
+            }
+        ]
+    },
+    {
+        "frame_id": 121,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (380).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.714295,
+                    "center_y": 0.597145,
+                    "width": 0.020547,
+                    "height": 0.034156
+                },
+                "confidence": 0.869199
+            }
+        ]
+    },
+    {
+        "frame_id": 122,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (381).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.724998,
+                    "center_y": 0.596548,
+                    "width": 0.016082,
+                    "height": 0.034332
+                },
+                "confidence": 0.952805
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.378462,
+                    "center_y": 0.587436,
+                    "width": 0.014162,
+                    "height": 0.024848
+                },
+                "confidence": 0.387978
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.331122,
+                    "center_y": 0.534370,
+                    "width": 0.004771,
+                    "height": 0.009351
+                },
+                "confidence": 0.314319
+            }
+        ]
+    },
+    {
+        "frame_id": 123,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (385).png",
+        "objects": []
+    },
+    {
+        "frame_id": 124,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (388).png",
+        "objects": []
+    },
+    {
+        "frame_id": 125,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (389).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.752123,
+                    "center_y": 0.598879,
+                    "width": 0.015209,
+                    "height": 0.030212
+                },
+                "confidence": 0.877274
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.345165,
+                    "center_y": 0.555682,
+                    "width": 0.015492,
+                    "height": 0.030554
+                },
+                "confidence": 0.362110
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.610050,
+                    "center_y": 0.676821,
+                    "width": 0.006935,
+                    "height": 0.013210
+                },
+                "confidence": 0.412929
+            }
+        ]
+    },
+    {
+        "frame_id": 126,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (390).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.866355,
+                    "center_y": 0.526483,
+                    "width": 0.018329,
+                    "height": 0.043510
+                },
+                "confidence": 0.954800
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.279020,
+                    "center_y": 0.478630,
+                    "width": 0.020622,
+                    "height": 0.041332
+                },
+                "confidence": 0.407189
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.624123,
+                    "center_y": 0.661874,
+                    "width": 0.007318,
+                    "height": 0.014257
+                },
+                "confidence": 0.358172
+            }
+        ]
+    },
+    {
+        "frame_id": 127,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (391).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.718912,
+                    "center_y": 0.619248,
+                    "width": 0.015018,
+                    "height": 0.030343
+                },
+                "confidence": 0.974787
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.594416,
+                    "center_y": 0.648493,
+                    "width": 0.011895,
+                    "height": 0.022500
+                },
+                "confidence": 0.837460
+            }
+        ]
+    },
+    {
+        "frame_id": 128,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (392).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.770505,
+                    "center_y": 0.531980,
+                    "width": 0.026608,
+                    "height": 0.056378
+                },
+                "confidence": 0.951828
+            }
+        ]
+    },
+    {
+        "frame_id": 129,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (393).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.693809,
+                    "center_y": 0.623299,
+                    "width": 0.017797,
+                    "height": 0.029084
+                },
+                "confidence": 0.926384
+            }
+        ]
+    },
+    {
+        "frame_id": 130,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (395).png",
+        "objects": []
+    },
+    {
+        "frame_id": 131,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (401).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.829687,
+                    "center_y": 0.130349,
+                    "width": 0.093446,
+                    "height": 0.171773
+                },
+                "confidence": 0.949092
+            }
+        ]
+    },
+    {
+        "frame_id": 132,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (403).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.620361,
+                    "center_y": 0.662123,
+                    "width": 0.008846,
+                    "height": 0.021589
+                },
+                "confidence": 0.418093
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.584473,
+                    "center_y": 0.642883,
+                    "width": 0.011455,
+                    "height": 0.021047
+                },
+                "confidence": 0.957121
+            }
+        ]
+    },
+    {
+        "frame_id": 133,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (404).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.250542,
+                    "center_y": 0.589419,
+                    "width": 0.014533,
+                    "height": 0.027348
+                },
+                "confidence": 0.436192
+            }
+        ]
+    },
+    {
+        "frame_id": 134,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (405).png",
+        "objects": []
+    },
+    {
+        "frame_id": 135,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (406).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.646431,
+                    "center_y": 0.599018,
+                    "width": 0.018660,
+                    "height": 0.032028
+                },
+                "confidence": 0.888014
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.418996,
+                    "center_y": 0.643131,
+                    "width": 0.008920,
+                    "height": 0.016744
+                },
+                "confidence": 0.566850
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.484765,
+                    "center_y": 0.683030,
+                    "width": 0.006201,
+                    "height": 0.010321
+                },
+                "confidence": 0.307045
+            }
+        ]
+    },
+    {
+        "frame_id": 136,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (407).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.334641,
+                    "center_y": 0.561769,
+                    "width": 0.015705,
+                    "height": 0.030543
+                },
+                "confidence": 0.660676
+            }
+        ]
+    },
+    {
+        "frame_id": 137,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (410).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.563859,
+                    "center_y": 0.552417,
+                    "width": 0.027178,
+                    "height": 0.046285
+                },
+                "confidence": 0.331463
+            }
+        ]
+    },
+    {
+        "frame_id": 138,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (414).png",
+        "objects": []
+    },
+    {
+        "frame_id": 139,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (416).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.722105,
+                    "center_y": 0.587202,
+                    "width": 0.046307,
+                    "height": 0.078031
+                },
+                "confidence": 0.988570
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.053398,
+                    "center_y": 0.467546,
+                    "width": 0.015678,
+                    "height": 0.048619
+                },
+                "confidence": 0.686172
+            }
+        ]
+    },
+    {
+        "frame_id": 140,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (417).png",
+        "objects": [
+            {
+                "class_id": 2,
+                "name": "information",
+                "relative_coordinates": {
+                    "center_x": 0.423419,
+                    "center_y": 0.662189,
+                    "width": 0.010592,
+                    "height": 0.027692
+                },
+                "confidence": 0.339165
+            }
+        ]
+    },
+    {
+        "frame_id": 141,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (418).png",
+        "objects": []
+    },
+    {
+        "frame_id": 142,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (419).png",
+        "objects": []
+    },
+    {
+        "frame_id": 143,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (420).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.561446,
+                    "center_y": 0.608374,
+                    "width": 0.021589,
+                    "height": 0.035367
+                },
+                "confidence": 0.826658
+            }
+        ]
+    },
+    {
+        "frame_id": 144,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (421).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.353863,
+                    "center_y": 0.583264,
+                    "width": 0.016765,
+                    "height": 0.031928
+                },
+                "confidence": 0.474263
+            }
+        ]
+    },
+    {
+        "frame_id": 145,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (426).png",
+        "objects": []
+    },
+    {
+        "frame_id": 146,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (427).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.654593,
+                    "center_y": 0.680644,
+                    "width": 0.010354,
+                    "height": 0.018219
+                },
+                "confidence": 0.605078
+            }
+        ]
+    },
+    {
+        "frame_id": 147,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (434).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.704690,
+                    "center_y": 0.438168,
+                    "width": 0.040536,
+                    "height": 0.076986
+                },
+                "confidence": 0.897249
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.236619,
+                    "center_y": 0.473899,
+                    "width": 0.016324,
+                    "height": 0.028649
+                },
+                "confidence": 0.610375
+            }
+        ]
+    },
+    {
+        "frame_id": 148,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (436).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.025088,
+                    "center_y": 0.485092,
+                    "width": 0.007216,
+                    "height": 0.018884
+                },
+                "confidence": 0.413724
+            }
+        ]
+    },
+    {
+        "frame_id": 149,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (437).png",
+        "objects": []
+    },
+    {
+        "frame_id": 150,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (440).png",
+        "objects": []
+    },
+    {
+        "frame_id": 151,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (442).png",
+        "objects": []
+    },
+    {
+        "frame_id": 152,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (447).png",
+        "objects": []
+    },
+    {
+        "frame_id": 153,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (450).png",
+        "objects": []
+    },
+    {
+        "frame_id": 154,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (453).png",
+        "objects": []
+    },
+    {
+        "frame_id": 155,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (455).png",
+        "objects": []
+    },
+    {
+        "frame_id": 156,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (457).png",
+        "objects": []
+    },
+    {
+        "frame_id": 157,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (458).png",
+        "objects": []
+    },
+    {
+        "frame_id": 158,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (460).png",
+        "objects": []
+    },
+    {
+        "frame_id": 159,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (463).png",
+        "objects": []
+    },
+    {
+        "frame_id": 160,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (467).png",
+        "objects": []
+    },
+    {
+        "frame_id": 161,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (468).png",
+        "objects": []
+    },
+    {
+        "frame_id": 162,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (470).png",
+        "objects": []
+    },
+    {
+        "frame_id": 163,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (471).png",
+        "objects": []
+    },
+    {
+        "frame_id": 164,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (472).png",
+        "objects": []
+    },
+    {
+        "frame_id": 165,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (473).png",
+        "objects": []
+    },
+    {
+        "frame_id": 166,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (475).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.634021,
+                    "center_y": 0.509698,
+                    "width": 0.020308,
+                    "height": 0.038550
+                },
+                "confidence": 0.379817
+            }
+        ]
+    },
+    {
+        "frame_id": 167,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (478).png",
+        "objects": []
+    },
+    {
+        "frame_id": 168,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (479).png",
+        "objects": []
+    },
+    {
+        "frame_id": 169,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (480).png",
+        "objects": []
+    },
+    {
+        "frame_id": 170,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (481).png",
+        "objects": []
+    },
+    {
+        "frame_id": 171,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (482).png",
+        "objects": []
+    },
+    {
+        "frame_id": 172,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (483).png",
+        "objects": []
+    },
+    {
+        "frame_id": 173,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (486).png",
+        "objects": []
+    },
+    {
+        "frame_id": 174,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (490).png",
+        "objects": []
+    },
+    {
+        "frame_id": 175,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (491).png",
+        "objects": []
+    },
+    {
+        "frame_id": 176,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (500).png",
+        "objects": []
+    },
+    {
+        "frame_id": 177,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (501).png",
+        "objects": []
+    },
+    {
+        "frame_id": 178,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (502).png",
+        "objects": []
+    },
+    {
+        "frame_id": 179,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (503).png",
+        "objects": []
+    },
+    {
+        "frame_id": 180,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (504).png",
+        "objects": []
+    },
+    {
+        "frame_id": 181,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (505).png",
+        "objects": []
+    },
+    {
+        "frame_id": 182,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (508).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.662407,
+                    "center_y": 0.469879,
+                    "width": 0.036064,
+                    "height": 0.055690
+                },
+                "confidence": 0.791312
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.328459,
+                    "center_y": 0.499396,
+                    "width": 0.018806,
+                    "height": 0.029894
+                },
+                "confidence": 0.295499
+            }
+        ]
+    },
+    {
+        "frame_id": 183,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (510).png",
+        "objects": []
+    },
+    {
+        "frame_id": 184,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (511).png",
+        "objects": []
+    },
+    {
+        "frame_id": 185,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (514).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.106934,
+                    "center_y": 0.576877,
+                    "width": 0.021391,
+                    "height": 0.045063
+                },
+                "confidence": 0.974750
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.245475,
+                    "center_y": 0.583230,
+                    "width": 0.015948,
+                    "height": 0.032119
+                },
+                "confidence": 0.647124
+            }
+        ]
+    },
+    {
+        "frame_id": 186,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (518).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.358477,
+                    "center_y": 0.494211,
+                    "width": 0.034844,
+                    "height": 0.065464
+                },
+                "confidence": 0.995412
+            }
+        ]
+    },
+    {
+        "frame_id": 187,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (519).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.413145,
+                    "center_y": 0.518167,
+                    "width": 0.017934,
+                    "height": 0.034085
+                },
+                "confidence": 0.861854
+            }
+        ]
+    },
+    {
+        "frame_id": 188,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (520).png",
+        "objects": []
+    },
+    {
+        "frame_id": 189,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (521).png",
+        "objects": []
+    },
+    {
+        "frame_id": 190,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (523).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.391911,
+                    "center_y": 0.649881,
+                    "width": 0.009479,
+                    "height": 0.016926
+                },
+                "confidence": 0.268508
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.422456,
+                    "center_y": 0.689046,
+                    "width": 0.005761,
+                    "height": 0.012190
+                },
+                "confidence": 0.646604
+            }
+        ]
+    },
+    {
+        "frame_id": 191,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (524).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.330234,
+                    "center_y": 0.626895,
+                    "width": 0.010783,
+                    "height": 0.021017
+                },
+                "confidence": 0.714461
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.183093,
+                    "center_y": 0.537819,
+                    "width": 0.017744,
+                    "height": 0.033864
+                },
+                "confidence": 0.465285
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.313570,
+                    "center_y": 0.655010,
+                    "width": 0.011655,
+                    "height": 0.021337
+                },
+                "confidence": 0.968511
+            }
+        ]
+    },
+    {
+        "frame_id": 192,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (525).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.171498,
+                    "center_y": 0.527388,
+                    "width": 0.017269,
+                    "height": 0.033858
+                },
+                "confidence": 0.706374
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.109471,
+                    "center_y": 0.570034,
+                    "width": 0.023377,
+                    "height": 0.046335
+                },
+                "confidence": 0.997691
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.335450,
+                    "center_y": 0.626288,
+                    "width": 0.013556,
+                    "height": 0.027485
+                },
+                "confidence": 0.399639
+            }
+        ]
+    },
+    {
+        "frame_id": 193,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (531).png",
+        "objects": []
+    },
+    {
+        "frame_id": 194,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (532).png",
+        "objects": []
+    },
+    {
+        "frame_id": 195,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (533).png",
+        "objects": []
+    },
+    {
+        "frame_id": 196,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (534).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.366964,
+                    "center_y": 0.665712,
+                    "width": 0.009574,
+                    "height": 0.017409
+                },
+                "confidence": 0.408521
+            }
+        ]
+    },
+    {
+        "frame_id": 197,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (535).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.174275,
+                    "center_y": 0.547585,
+                    "width": 0.013415,
+                    "height": 0.028583
+                },
+                "confidence": 0.695440
+            }
+        ]
+    },
+    {
+        "frame_id": 198,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (536).png",
+        "objects": []
+    },
+    {
+        "frame_id": 199,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (538).png",
+        "objects": []
+    },
+    {
+        "frame_id": 200,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (539).png",
+        "objects": []
+    },
+    {
+        "frame_id": 201,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (547).png",
+        "objects": []
+    },
+    {
+        "frame_id": 202,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (558).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.445701,
+                    "center_y": 0.669039,
+                    "width": 0.011719,
+                    "height": 0.019825
+                },
+                "confidence": 0.957129
+            }
+        ]
+    },
+    {
+        "frame_id": 203,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (566).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.274515,
+                    "center_y": 0.485642,
+                    "width": 0.023325,
+                    "height": 0.042503
+                },
+                "confidence": 0.827775
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.248854,
+                    "center_y": 0.493443,
+                    "width": 0.020379,
+                    "height": 0.037974
+                },
+                "confidence": 0.557783
+            }
+        ]
+    },
+    {
+        "frame_id": 204,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (569).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.163994,
+                    "center_y": 0.472005,
+                    "width": 0.023804,
+                    "height": 0.054774
+                },
+                "confidence": 0.993501
+            }
+        ]
+    },
+    {
+        "frame_id": 205,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (576).png",
+        "objects": []
+    },
+    {
+        "frame_id": 206,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (580).png",
+        "objects": []
+    },
+    {
+        "frame_id": 207,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (582).png",
+        "objects": []
+    },
+    {
+        "frame_id": 208,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (586).png",
+        "objects": []
+    },
+    {
+        "frame_id": 209,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (600).png",
+        "objects": []
+    },
+    {
+        "frame_id": 210,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (601).png",
+        "objects": []
+    },
+    {
+        "frame_id": 211,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (602).png",
+        "objects": []
+    },
+    {
+        "frame_id": 212,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (603).png",
+        "objects": []
+    },
+    {
+        "frame_id": 213,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (605).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.352443,
+                    "center_y": 0.241212,
+                    "width": 0.017982,
+                    "height": 0.034032
+                },
+                "confidence": 0.936313
+            }
+        ]
+    },
+    {
+        "frame_id": 214,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (614).png",
+        "objects": []
+    },
+    {
+        "frame_id": 215,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (616).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.993696,
+                    "center_y": 0.241436,
+                    "width": 0.013112,
+                    "height": 0.115879
+                },
+                "confidence": 0.472326
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.412549,
+                    "center_y": 0.249349,
+                    "width": 0.010694,
+                    "height": 0.018021
+                },
+                "confidence": 0.343736
+            }
+        ]
+    },
+    {
+        "frame_id": 216,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (628).png",
+        "objects": []
+    },
+    {
+        "frame_id": 217,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (630).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.307443,
+                    "center_y": 0.198646,
+                    "width": 0.028436,
+                    "height": 0.046437
+                },
+                "confidence": 0.867350
+            }
+        ]
+    },
+    {
+        "frame_id": 218,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (639).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.429966,
+                    "center_y": 0.702089,
+                    "width": 0.014425,
+                    "height": 0.021996
+                },
+                "confidence": 0.394629
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.693471,
+                    "center_y": 0.674930,
+                    "width": 0.023039,
+                    "height": 0.041276
+                },
+                "confidence": 0.318247
+            }
+        ]
+    },
+    {
+        "frame_id": 219,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (641).png",
+        "objects": []
+    },
+    {
+        "frame_id": 220,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (647).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.271132,
+                    "center_y": 0.681539,
+                    "width": 0.009571,
+                    "height": 0.020246
+                },
+                "confidence": 0.922991
+            }
+        ]
+    },
+    {
+        "frame_id": 221,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (649).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.286817,
+                    "center_y": 0.731377,
+                    "width": 0.009151,
+                    "height": 0.018958
+                },
+                "confidence": 0.831493
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.287754,
+                    "center_y": 0.706552,
+                    "width": 0.009549,
+                    "height": 0.018739
+                },
+                "confidence": 0.721541
+            }
+        ]
+    },
+    {
+        "frame_id": 222,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (652).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.061731,
+                    "center_y": 0.629221,
+                    "width": 0.013836,
+                    "height": 0.034163
+                },
+                "confidence": 0.345414
+            }
+        ]
+    },
+    {
+        "frame_id": 223,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (658).png",
+        "objects": []
+    },
+    {
+        "frame_id": 224,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (660).png",
+        "objects": []
+    },
+    {
+        "frame_id": 225,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (674).png",
+        "objects": []
+    },
+    {
+        "frame_id": 226,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (675).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.321829,
+                    "center_y": 0.678991,
+                    "width": 0.010952,
+                    "height": 0.022224
+                },
+                "confidence": 0.951958
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.376203,
+                    "center_y": 0.717991,
+                    "width": 0.005655,
+                    "height": 0.011766
+                },
+                "confidence": 0.764897
+            }
+        ]
+    },
+    {
+        "frame_id": 227,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (687).png",
+        "objects": []
+    },
+    {
+        "frame_id": 228,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (688).png",
+        "objects": []
+    },
+    {
+        "frame_id": 229,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (691).png",
+        "objects": []
+    },
+    {
+        "frame_id": 230,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (692).png",
+        "objects": []
+    },
+    {
+        "frame_id": 231,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (695).png",
+        "objects": []
+    },
+    {
+        "frame_id": 232,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (696).png",
+        "objects": []
+    },
+    {
+        "frame_id": 233,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (697).png",
+        "objects": []
+    },
+    {
+        "frame_id": 234,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (698).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.348291,
+                    "center_y": 0.685363,
+                    "width": 0.009813,
+                    "height": 0.014748
+                },
+                "confidence": 0.441940
+            }
+        ]
+    },
+    {
+        "frame_id": 235,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (699).png",
+        "objects": []
+    },
+    {
+        "frame_id": 236,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (700).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.208577,
+                    "center_y": 0.592963,
+                    "width": 0.019852,
+                    "height": 0.037790
+                },
+                "confidence": 0.500525
+            }
+        ]
+    },
+    {
+        "frame_id": 237,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (703).png",
+        "objects": []
+    },
+    {
+        "frame_id": 238,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (704).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.367838,
+                    "center_y": 0.646645,
+                    "width": 0.011898,
+                    "height": 0.019902
+                },
+                "confidence": 0.688585
+            }
+        ]
+    },
+    {
+        "frame_id": 239,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (709).png",
+        "objects": []
+    },
+    {
+        "frame_id": 240,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (711).png",
+        "objects": []
+    },
+    {
+        "frame_id": 241,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (713).png",
+        "objects": []
+    },
+    {
+        "frame_id": 242,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (715).png",
+        "objects": []
+    },
+    {
+        "frame_id": 243,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (718).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.366415,
+                    "center_y": 0.210107,
+                    "width": 0.020350,
+                    "height": 0.037264
+                },
+                "confidence": 0.602197
+            }
+        ]
+    },
+    {
+        "frame_id": 244,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (720).png",
+        "objects": []
+    },
+    {
+        "frame_id": 245,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (726).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.623152,
+                    "center_y": 0.688927,
+                    "width": 0.015359,
+                    "height": 0.026061
+                },
+                "confidence": 0.620693
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.444931,
+                    "center_y": 0.705351,
+                    "width": 0.009836,
+                    "height": 0.016756
+                },
+                "confidence": 0.524149
+            }
+        ]
+    },
+    {
+        "frame_id": 246,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (732).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.322973,
+                    "center_y": 0.645921,
+                    "width": 0.033927,
+                    "height": 0.059845
+                },
+                "confidence": 0.990673
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.478760,
+                    "center_y": 0.728739,
+                    "width": 0.005006,
+                    "height": 0.008391
+                },
+                "confidence": 0.420797
+            }
+        ]
+    },
+    {
+        "frame_id": 247,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (733).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.316675,
+                    "center_y": 0.661277,
+                    "width": 0.019605,
+                    "height": 0.036987
+                },
+                "confidence": 0.744156
+            }
+        ]
+    },
+    {
+        "frame_id": 248,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (734).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.394099,
+                    "center_y": 0.684078,
+                    "width": 0.023944,
+                    "height": 0.038161
+                },
+                "confidence": 0.809981
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.825871,
+                    "center_y": 0.588598,
+                    "width": 0.020487,
+                    "height": 0.037115
+                },
+                "confidence": 0.467408
+            }
+        ]
+    },
+    {
+        "frame_id": 249,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (740).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.136339,
+                    "center_y": 0.633268,
+                    "width": 0.013035,
+                    "height": 0.024840
+                },
+                "confidence": 0.970595
+            }
+        ]
+    },
+    {
+        "frame_id": 250,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (741).png",
+        "objects": []
+    },
+    {
+        "frame_id": 251,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (742).png",
+        "objects": []
+    },
+    {
+        "frame_id": 252,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (744).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.347066,
+                    "center_y": 0.649655,
+                    "width": 0.026533,
+                    "height": 0.052678
+                },
+                "confidence": 0.697488
+            }
+        ]
+    },
+    {
+        "frame_id": 253,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (746).png",
+        "objects": [
+            {
+                "class_id": 3,
+                "name": "complementary",
+                "relative_coordinates": {
+                    "center_x": 0.090369,
+                    "center_y": 0.916238,
+                    "width": 0.051086,
+                    "height": 0.196840
+                },
+                "confidence": 0.514668
+            }
+        ]
+    },
+    {
+        "frame_id": 254,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (747).png",
+        "objects": []
+    },
+    {
+        "frame_id": 255,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (752).png",
+        "objects": []
+    },
+    {
+        "frame_id": 256,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (754).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.337123,
+                    "center_y": 0.260700,
+                    "width": 0.014624,
+                    "height": 0.029581
+                },
+                "confidence": 0.854027
+            }
+        ]
+    },
+    {
+        "frame_id": 257,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (755).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.374442,
+                    "center_y": 0.688537,
+                    "width": 0.021448,
+                    "height": 0.036183
+                },
+                "confidence": 0.839826
+            }
+        ]
+    },
+    {
+        "frame_id": 258,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (756).png",
+        "objects": [
+            {
+                "class_id": 3,
+                "name": "complementary",
+                "relative_coordinates": {
+                    "center_x": 0.444752,
+                    "center_y": 0.685003,
+                    "width": 0.014898,
+                    "height": 0.033047
+                },
+                "confidence": 0.991792
+            }
+        ]
+    },
+    {
+        "frame_id": 259,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (758).png",
+        "objects": []
+    },
+    {
+        "frame_id": 260,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (759).png",
+        "objects": [
+            {
+                "class_id": 3,
+                "name": "complementary",
+                "relative_coordinates": {
+                    "center_x": 0.439145,
+                    "center_y": 0.274617,
+                    "width": 0.005801,
+                    "height": 0.012619
+                },
+                "confidence": 0.757256
+            }
+        ]
+    },
+    {
+        "frame_id": 261,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (762).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.337408,
+                    "center_y": 0.231371,
+                    "width": 0.021890,
+                    "height": 0.036027
+                },
+                "confidence": 0.645917
+            }
+        ]
+    },
+    {
+        "frame_id": 262,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (768).png",
+        "objects": []
+    },
+    {
+        "frame_id": 263,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (771).png",
+        "objects": []
+    },
+    {
+        "frame_id": 264,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (772).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.298770,
+                    "center_y": 0.256061,
+                    "width": 0.021752,
+                    "height": 0.038117
+                },
+                "confidence": 0.943739
+            }
+        ]
+    },
+    {
+        "frame_id": 265,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (773).png",
+        "objects": []
+    },
+    {
+        "frame_id": 266,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (774).png",
+        "objects": []
+    },
+    {
+        "frame_id": 267,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (776).png",
+        "objects": []
+    },
+    {
+        "frame_id": 268,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (777).png",
+        "objects": []
+    },
+    {
+        "frame_id": 269,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (779).png",
+        "objects": []
+    },
+    {
+        "frame_id": 270,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (781).png",
+        "objects": []
+    },
+    {
+        "frame_id": 271,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (783).png",
+        "objects": []
+    },
+    {
+        "frame_id": 272,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (784).png",
+        "objects": []
+    },
+    {
+        "frame_id": 273,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (786).png",
+        "objects": []
+    },
+    {
+        "frame_id": 274,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (787).png",
+        "objects": []
+    },
+    {
+        "frame_id": 275,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (788).png",
+        "objects": []
+    },
+    {
+        "frame_id": 276,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (790).png",
+        "objects": []
+    },
+    {
+        "frame_id": 277,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (791).png",
+        "objects": []
+    },
+    {
+        "frame_id": 278,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (792).png",
+        "objects": []
+    },
+    {
+        "frame_id": 279,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (793).png",
+        "objects": []
+    },
+    {
+        "frame_id": 280,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (794).png",
+        "objects": []
+    },
+    {
+        "frame_id": 281,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (795).png",
+        "objects": []
+    },
+    {
+        "frame_id": 282,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (796).png",
+        "objects": []
+    },
+    {
+        "frame_id": 283,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (797).png",
+        "objects": []
+    },
+    {
+        "frame_id": 284,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (798).png",
+        "objects": []
+    },
+    {
+        "frame_id": 285,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (799).png",
+        "objects": []
+    },
+    {
+        "frame_id": 286,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (800).png",
+        "objects": []
+    },
+    {
+        "frame_id": 287,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (802).png",
+        "objects": []
+    },
+    {
+        "frame_id": 288,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (803).png",
+        "objects": []
+    },
+    {
+        "frame_id": 289,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (809).png",
+        "objects": []
+    },
+    {
+        "frame_id": 290,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (810).png",
+        "objects": []
+    },
+    {
+        "frame_id": 291,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (813).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.332270,
+                    "center_y": 0.247259,
+                    "width": 0.012596,
+                    "height": 0.021622
+                },
+                "confidence": 0.273105
+            }
+        ]
+    },
+    {
+        "frame_id": 292,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (814).png",
+        "objects": []
+    },
+    {
+        "frame_id": 293,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (815).png",
+        "objects": []
+    },
+    {
+        "frame_id": 294,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (817).png",
+        "objects": []
+    },
+    {
+        "frame_id": 295,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (818).png",
+        "objects": []
+    },
+    {
+        "frame_id": 296,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (819).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.611198,
+                    "center_y": 0.223903,
+                    "width": 0.016807,
+                    "height": 0.029880
+                },
+                "confidence": 0.930490
+            }
+        ]
+    },
+    {
+        "frame_id": 297,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (820).png",
+        "objects": []
+    },
+    {
+        "frame_id": 298,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (821).png",
+        "objects": []
+    },
+    {
+        "frame_id": 299,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (823).png",
+        "objects": []
+    },
+    {
+        "frame_id": 300,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (824).png",
+        "objects": []
+    },
+    {
+        "frame_id": 301,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (825).png",
+        "objects": []
+    },
+    {
+        "frame_id": 302,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (826).png",
+        "objects": []
+    },
+    {
+        "frame_id": 303,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (827).png",
+        "objects": []
+    },
+    {
+        "frame_id": 304,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (834).png",
+        "objects": []
+    },
+    {
+        "frame_id": 305,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (835).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.583563,
+                    "center_y": 0.238212,
+                    "width": 0.013069,
+                    "height": 0.025501
+                },
+                "confidence": 0.765466
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.672407,
+                    "center_y": 0.215206,
+                    "width": 0.016902,
+                    "height": 0.032098
+                },
+                "confidence": 0.968123
+            }
+        ]
+    },
+    {
+        "frame_id": 306,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (836).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.146512,
+                    "center_y": 0.224077,
+                    "width": 0.020157,
+                    "height": 0.041951
+                },
+                "confidence": 0.753155
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.945951,
+                    "center_y": 0.109144,
+                    "width": 0.037903,
+                    "height": 0.146183
+                },
+                "confidence": 0.664539
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.578592,
+                    "center_y": 0.237667,
+                    "width": 0.008414,
+                    "height": 0.015425
+                },
+                "confidence": 0.542259
+            }
+        ]
+    },
+    {
+        "frame_id": 307,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (837).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.611231,
+                    "center_y": 0.217105,
+                    "width": 0.021776,
+                    "height": 0.039554
+                },
+                "confidence": 0.860809
+            }
+        ]
+    },
+    {
+        "frame_id": 308,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (840).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.647175,
+                    "center_y": 0.684006,
+                    "width": 0.018459,
+                    "height": 0.030037
+                },
+                "confidence": 0.746137
+            }
+        ]
+    },
+    {
+        "frame_id": 309,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (843).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.717494,
+                    "center_y": 0.643214,
+                    "width": 0.027742,
+                    "height": 0.052164
+                },
+                "confidence": 0.968310
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.411209,
+                    "center_y": 0.690601,
+                    "width": 0.016583,
+                    "height": 0.028667
+                },
+                "confidence": 0.570048
+            }
+        ]
+    },
+    {
+        "frame_id": 310,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (850).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.333530,
+                    "center_y": 0.703817,
+                    "width": 0.008809,
+                    "height": 0.016196
+                },
+                "confidence": 0.572143
+            }
+        ]
+    },
+    {
+        "frame_id": 311,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (857).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.366774,
+                    "center_y": 0.714563,
+                    "width": 0.005320,
+                    "height": 0.009678
+                },
+                "confidence": 0.291252
+            },
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.560347,
+                    "center_y": 0.714614,
+                    "width": 0.010161,
+                    "height": 0.017178
+                },
+                "confidence": 0.955857
+            }
+        ]
+    },
+    {
+        "frame_id": 312,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (867).png",
+        "objects": []
+    },
+    {
+        "frame_id": 313,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (868).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.409032,
+                    "center_y": 0.716550,
+                    "width": 0.006958,
+                    "height": 0.013080
+                },
+                "confidence": 0.327419
+            }
+        ]
+    },
+    {
+        "frame_id": 314,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (869).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.352485,
+                    "center_y": 0.709823,
+                    "width": 0.007832,
+                    "height": 0.013399
+                },
+                "confidence": 0.325531
+            }
+        ]
+    },
+    {
+        "frame_id": 315,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (871).png",
+        "objects": []
+    },
+    {
+        "frame_id": 316,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (872).png",
+        "objects": []
+    },
+    {
+        "frame_id": 317,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (873).png",
+        "objects": []
+    },
+    {
+        "frame_id": 318,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (874).png",
+        "objects": []
+    },
+    {
+        "frame_id": 319,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (875).png",
+        "objects": [
+            {
+                "class_id": 0,
+                "name": "regulatory",
+                "relative_coordinates": {
+                    "center_x": 0.043786,
+                    "center_y": 0.546522,
+                    "width": 0.036371,
+                    "height": 0.089528
+                },
+                "confidence": 0.964181
+            }
+        ]
+    },
+    {
+        "frame_id": 320,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (878).png",
+        "objects": []
+    },
+    {
+        "frame_id": 321,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (879).png",
+        "objects": []
+    },
+    {
+        "frame_id": 322,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (880).png",
+        "objects": []
+    },
+    {
+        "frame_id": 323,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (881).png",
+        "objects": []
+    },
+    {
+        "frame_id": 324,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (882).png",
+        "objects": []
+    },
+    {
+        "frame_id": 325,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (883).png",
+        "objects": []
+    },
+    {
+        "frame_id": 326,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (884).png",
+        "objects": []
+    },
+    {
+        "frame_id": 327,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (890).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.377848,
+                    "center_y": 0.673223,
+                    "width": 0.018122,
+                    "height": 0.028254
+                },
+                "confidence": 0.951919
+            },
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.854269,
+                    "center_y": 0.591845,
+                    "width": 0.032898,
+                    "height": 0.071065
+                },
+                "confidence": 0.436553
+            }
+        ]
+    },
+    {
+        "frame_id": 328,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (904).png",
+        "objects": [
+            {
+                "class_id": 1,
+                "name": "warning",
+                "relative_coordinates": {
+                    "center_x": 0.605762,
+                    "center_y": 0.241212,
+                    "width": 0.015712,
+                    "height": 0.027908
+                },
+                "confidence": 0.852632
+            }
+        ]
+    },
+    {
+        "frame_id": 329,
+        "filename": "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/Screenshot (909).png",
+        "objects": []
+    }
+]
