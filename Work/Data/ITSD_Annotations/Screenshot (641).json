@@ -1,0 +1,1 @@
+{"objects": [{"bbox": {"center_x": 0.314415, "center_y": 0.708866, "width": 0.004738, "height": 0.009145}, "label": "regulatory"}, {"bbox": {"center_x": 0.3104166666666667, "center_y": 0.7046296296296296, "width": 0.008333333333333333, "height": 0.010185185185185186}, "label": "regulatory"}]}
