@@ -1,5 +1,5 @@
 */Work/Data/ITSD_Annotations/*
-
+*.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
