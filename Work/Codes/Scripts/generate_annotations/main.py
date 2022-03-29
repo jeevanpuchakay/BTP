@@ -49,10 +49,12 @@ def create_annotations(all_annotations, ANNOTATIONS_OUTPUT_PATH):
 
 if __name__ == "__main__":
     ITSD_FILE_PATH = "/mnt/c/Users/jeeva/Documents/GitHub/BTP/Work/Data/ITSD_Annotations.json"
+    
+    # ITSD_FILE_PATH = "/mnt/c/Users/jeeva/Documents/GitHub/BTP/Work/Data/result_ITSD.json"
     ANNOTATIONS_OUTPUT_PATH = "/mnt/c/Users/jeeva/Documents/GitHub/BTP/Work/Data/ITSD_Annotations/"
     makedir(ANNOTATIONS_OUTPUT_PATH)
 
     all_annotations = get_json_data(ITSD_FILE_PATH)
+    print("Annotations Size: "+str(len(all_annotations)))
 
-
-    create_annotations(all_annotations,ANNOTATIONS_OUTPUT_PATH)
+    create_annotations(all_annotations, ANNOTATIONS_OUTPUT_PATH)

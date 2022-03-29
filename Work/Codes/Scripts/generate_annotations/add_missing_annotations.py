@@ -68,14 +68,21 @@ def add_missing_labels(current_labels, missing_labels):
 
 
 
+def write_to_json(new_annotations, new_annotation_path):
+    with open(new_annotation_path, 'w') as f:
+        f.write(json.dumps(new_annotations))
+
+
 if __name__ == "__main__":
 
-    RESULT_IMPROVED = "/mnt/c/Users/jeeva/Documents/GitHub/BTP/Work/Data/result_Improved.json"
+    RESULT_IMPROVED = "/mnt/c/Users/jeeva/Documents/GitHub/BTP/Work/Data/result_ITSD.json"
     MISSING_LABELS = "/mnt/c/Users/jeeva/Documents/GitHub/BTP/Work/Data/missing_labels.csv"
 
-    NEW_LABELS = "/mnt/c/Users/jeeva/Documents/GitHub/BTP/Work/Data/ITSD_Annotations.json"
+    NEW_LABELS_PATH = "/mnt/c/Users/jeeva/Documents/GitHub/BTP/Work/Data/ITSD_Annotations.json"
 
-    HEADER_PATH = "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ImprovedResolution/ImprovedResolution/"
+    # HEADER_PATH = "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ImprovedResolution/ImprovedResolution/"
+    
+    HEADER_PATH = "/home/anuj/Desktop/hdd1/swastik/swastik/CAR/ITSD/"
 
     current_labels = get_json_data(RESULT_IMPROVED)
 
@@ -87,4 +94,4 @@ if __name__ == "__main__":
 
     new_labels = add_missing_labels(current_labels, missing_labels)
 
-    write_to_json(new_labels, NEW_LABELS)
+    write_to_json(new_labels, NEW_LABELS_PATH)

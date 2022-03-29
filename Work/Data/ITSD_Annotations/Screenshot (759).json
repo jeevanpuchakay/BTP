@@ -1,1 +1,1 @@
-{"objects": [{"bbox": {"center_x": 0.439083, "center_y": 0.274944, "width": 0.005888, "height": 0.012957}, "label": "complementary"}, {"bbox": {"center_x": 0.3619791666666667, "center_y": 0.25833333333333336, "width": 0.021354166666666667, "height": 0.025}, "label": "warning"}]}
+{"objects": [{"bbox": {"center_x": 0.439145, "center_y": 0.274617, "width": 0.005801, "height": 0.012619}, "label": "complementary"}, {"bbox": {"center_x": 0.3619791666666667, "center_y": 0.25833333333333336, "width": 0.021354166666666667, "height": 0.025}, "label": "warning"}]}

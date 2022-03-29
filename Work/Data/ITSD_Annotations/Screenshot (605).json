@@ -1,1 +1,1 @@
-{"objects": [{"bbox": {"center_x": 0.352424, "center_y": 0.241615, "width": 0.018201, "height": 0.033756}, "label": "regulatory"}, {"bbox": {"center_x": 0.421875, "center_y": 0.2518518518518518, "width": 0.016145833333333335, "height": 0.025925925925925925}, "label": "regulatory"}]}
+{"objects": [{"bbox": {"center_x": 0.352443, "center_y": 0.241212, "width": 0.017982, "height": 0.034032}, "label": "regulatory"}, {"bbox": {"center_x": 0.421875, "center_y": 0.2518518518518518, "width": 0.016145833333333335, "height": 0.025925925925925925}, "label": "regulatory"}]}
